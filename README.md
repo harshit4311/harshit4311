@@ -1,6 +1,6 @@
 - Hey, I’m **Harshit Shah** (@harshit4311)
 - **Skills**: C, C++, Java, Python, Front-End Development, SQL(basics and learning R for Data Science)
-- **LinkedIn Profile**: https://www.linkedin.com/in/harshit-shah-08a9b1227
+- **LinkedIn Profile**: www.linkedin.com/in/harshit-shah16
 - **Interests**: Competitive Programming, Low Latency/HFT Development, AI/ML
 - **What I'm Learning right now:** DSA, Learning new-age Technologies and Frameworks
 
