@@ -2,7 +2,7 @@
 - **Skills**: C, C++, Java, Python, Front-End Development, SQL(basics and learning R for Data Science)
 - **LinkedIn Profile**: https://www.linkedin.com/in/harshit-shah-08a9b1227
 - **Interests**: Competitive Programming, Low Latency/HFT Development, AI/ML
-- **What I'm Learning right now:** C++(DSA), Learning/Reading about new-age Technologies and Frameworks
+- **What I'm Learning right now:** DSA, Learning new-age Technologies and Frameworks
 
 <!---
 harshit4311/harshit4311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
