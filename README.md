@@ -1,8 +1,8 @@
 # 💫 About Me:
 <br>Hey, I’m **Harshit Shah** (@harshit4311)<br>
-**Skills:** C/C++, Java, Python, Front-End Development, Data Science<br>
+**Skills:** C/C++, Java(Spring Boot), Python, Full-Stack Development, Data Science<br>
 **LinkedIn Profile:** https://linkedin.com/in/harshit-shah16<br>
-**Interests:** AI/ML, Low Latency/HFT Development<br>
+**Interests:** AI/ML, Low Latency/HFT Development, Backend Development<br>
 **Upskilling:** Data Structures/Algorithms, Learning new-age Technologies and Frameworks in Javascript
 
 
