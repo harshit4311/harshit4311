@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Hey, I’m **Harshit Shah** (@harshit4311)<br>
-**Skills:** Core Java, Spring Boot, Python, C/C++, Data Science<br>
+**Skills:** Java, Python, Javascript, Spring Boot, React.js, Data Science<br>
 **LinkedIn Profile:** https://linkedin.com/in/harshit-shah16<br>
 **Resume:** https://tinyurl.com/3t577fa9 <br>
 **Interests:** AI/ML, Low Latency/HFT Development, Backend Development<br>
