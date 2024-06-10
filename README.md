@@ -3,7 +3,7 @@
 **Skills:** Java, Python, Javascript, Spring Boot, React.js, Data Science<br>
 **LinkedIn Profile:** https://linkedin.com/in/harshit-shah16<br>
 **Resume:** https://tinyurl.com/3t577fa9 <br>
-**Interests:** AI/ML, Low Latency/HFT Development, Backend Development<br>
+**Interests:** AI/ML, Low Latency/HFT Development, FinTech Backend Development<br>
 **Upskilling:** Data Structures/Algorithms, Learning new-age Technologies and Frameworks in Javascript
 
 
