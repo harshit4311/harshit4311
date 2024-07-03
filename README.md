@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>Hey, I’m **Harshit Shah** (@harshit4311)<br>
-**Skills:** Java, Python, Javascript, Spring Boot, React.js, Data Science<br>
+**Skills:** Java, Python, Javascript, Spring Boot, React.js, Node.js, Express.js, Data Science<br>
 **LinkedIn Profile:** https://linkedin.com/in/harshit-shah16<br>
 **Portfolio Website:** https://redmastic.tech<br>
 **Interests:** AI/ML, Low Latency/HFT Development, FinTech Backend Development<br>
