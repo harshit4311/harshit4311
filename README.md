@@ -3,7 +3,7 @@
 **Skills:** Java, Python, Javascript, Spring Boot, React.js, Node.js, Express.js, Data Science<br>
 **LinkedIn Profile:** https://linkedin.com/in/harshit-shah16<br>
 **Portfolio Website:** https://redmastic.tech<br>
-**Interests:** AI/ML, Low Latency/HFT Development, FinTech Backend Development<br>
+**Interests:** AI/ML + Quant <br>
 **Upskilling:** Data Structures/Algorithms, Learning new-age Technologies and Frameworks in Javascript
 
 
