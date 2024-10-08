@@ -5,7 +5,7 @@
 **Portfolio:** https://redmastic.tech<br>
 **LeetCode:** https://leetcode.com/u/redmastic/<br>
 **Interests:** AI/ML + Quant <br>
-**Upskilling:** DSA, MERN Stack, AI/ML
+**Upskilling:** ML + Quant Fin
 
 
 ## 🌐 Socials:
