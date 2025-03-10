@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>Hey, I’m **Harshit Shah** (@harshit4311)<br>
 
-**Short Brief:** Data Scientist/Machine Learning Engineer || Prev. AI & Deep Learning Intern at the University of Oxford || Prev. Guinness World Record at IIT-Bombay || CS @BITS Pilani <br>
+**Short Brief:** Quant Data Scientist/ML Engineer | BITS Pilani | Prev. AI/ML Intern @University of Oxford | 1x Guinness World Record Holder <br>
 
 **LinkedIn:** https://linkedin.com/in/harshit-shah16<br>
 **Portfolio:** https://redmastic.tech<br>
