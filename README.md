@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>Hey, I’m **Harshit Shah** (@harshit4311)<br>
 
 **Short Brief:** Quant Data Scientist/ML Engineer | BITS Pilani | Prev. AI/ML Intern @University of Oxford | 1x Guinness World Record Holder <br>
