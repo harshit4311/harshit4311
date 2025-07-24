@@ -6,7 +6,7 @@
 **LinkedIn:** https://linkedin.com/in/harshit-shah16<br>
 **Portfolio:** https://redmastic.tech<br>
 **LeetCode:** https://leetcode.com/u/redmastic/<br>
-**Interests:** AI/ML <br>
+**Interests:** ml + finance <br>
 
 
 ## 🌐 Socials:
